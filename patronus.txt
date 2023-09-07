@@ -108,14 +108,8 @@ Duck Patronous
        ~;_  >- . . -<  _i~
           `'         `'
 
-
-
-
-<<<<<<< Updated upstream
  I will be adding more Patronous in future
 =======
-<<<<<<< HEAD
-Horse Patronous1
               _(\_/) 
                           ,((((^`\
                          ((((  (6 \ 
@@ -176,6 +170,3 @@ J     \         /._           /        -tI/ |
         `-.___/   sk 
 
 
-
-Added Patronus.
->>>>>>> Stashed changes
